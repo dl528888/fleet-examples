@@ -25,5 +25,5 @@ targetCustomizations:
   yaml:
     # Refers to overlays/servicelb, scale3 folders
     overlays:
-    - servicelb
+   # - servicelb
     - scale3
